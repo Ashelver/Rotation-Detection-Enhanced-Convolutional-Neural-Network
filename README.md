@@ -8,3 +8,4 @@ Each of them has "train()-use only original images" and "mixed_train()-use both 
 
 Each of them has "test()-use only original images" and "polluted_test()()-use only rotated images" methods
 
+Paper may be helpful: https://ieeexplore.ieee.org/abstract/document/8296411
